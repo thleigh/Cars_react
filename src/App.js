@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './tesla_logo.png';
 import './App.css';
 import Tesla from './Tesla';
 
